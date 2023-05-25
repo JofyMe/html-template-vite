@@ -10,10 +10,6 @@
   font-family: $primary-font, $default-font;
 }
 
-main {
-  padding-top: $height-header;
-}
-
 body,
 html,
 #wrapper {
@@ -30,6 +26,15 @@ a {
 ul,
 li {
   list-style-type: none;
+}
+
+
+main {
+  padding-top: $height-header;
+}
+
+section {
+  padding-top: 5%;
 }
 
 .container {

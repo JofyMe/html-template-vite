@@ -5,6 +5,8 @@
   width: 100%;
   background-color: $primary-color;
   color: $white;
+  position: fixed;
+  z-index: 3;
 
   .header {
     height: 100%;
