@@ -6,7 +6,7 @@ Template for creating a new project in vanilla js
 * [HTML5](https://en.wikipedia.org/wiki/HTML5) - Markup language
 * [SCSS](https://en.wikipedia.org/wiki/SCSS) - Preprocessor scripting language
 * [JS](https://en.wikipedia.org/wiki/JavaScript) - Multi-paradigm programming language
-* [VITE]([https://gulpjs.com/](https://vitejs.dev/)) - Preprocessor scripting language
+* [VITE](https://vitejs.dev/) - Preprocessor scripting language
 * [GIT](https://git-scm.com/) - Version control system
 * [VSC](https://code.visualstudio.com/) - Source code editor 
 
